@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bbcd844b-6951-4460-8330-4a7328f33fc9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/resources/css/style.css" afterPath="$PROJECT_DIR$/resources/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/resources/img/berlin.jpg" afterPath="$PROJECT_DIR$/resources/img/berlin.jpg" />
-      <change beforePath="$PROJECT_DIR$/resources/img/lisbon-3.jpg" afterPath="$PROJECT_DIR$/resources/img/lisbon-3.jpg" />
-      <change beforePath="$PROJECT_DIR$/resources/img/london.jpg" afterPath="$PROJECT_DIR$/resources/img/london.jpg" />
-      <change beforePath="$PROJECT_DIR$/resources/img/san-francisco.jpg" afterPath="$PROJECT_DIR$/resources/img/san-francisco.jpg" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="87" column="38" lean-forward="false" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="38" />
+            <state relative-caret-position="670">
+              <caret line="430" column="35" lean-forward="true" selection-start-line="430" selection-start-column="35" selection-end-line="430" selection-end-column="35" />
               <folding>
                 <element signature="e#2858#2865#0" expanded="true" />
                 <element signature="e#15861#15867#1" expanded="true" />
@@ -56,8 +51,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="179" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="644" selection-end-column="0" />
+            <state relative-caret-position="228">
+              <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -140,17 +135,6 @@
               <item name="omnifood" type="b2602c69:ProjectViewProjectNode" />
               <item name="omnifood" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="omnifood" type="b2602c69:ProjectViewProjectNode" />
-              <item name="omnifood" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="omnifood" type="b2602c69:ProjectViewProjectNode" />
-              <item name="omnifood" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -198,12 +182,12 @@
       <workItem from="1512218676328" duration="23000" />
       <workItem from="1512218725716" duration="26000" />
       <workItem from="1512218766758" duration="918000" />
-      <workItem from="1512220009012" duration="8870000" />
+      <workItem from="1512220009012" duration="9780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34959000" />
+    <option name="totallyTimeSpent" value="35869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -435,16 +419,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="179" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="644" selection-end-column="0" />
+        <state relative-caret-position="228">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="87" column="38" lean-forward="false" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="38" />
+        <state relative-caret-position="670">
+          <caret line="430" column="35" lean-forward="true" selection-start-line="430" selection-start-column="35" selection-end-line="430" selection-end-column="35" />
           <folding>
             <element signature="e#2858#2865#0" expanded="true" />
             <element signature="e#15861#15867#1" expanded="true" />
